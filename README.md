@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Huangruixi
 - 👀 I’m interested in scientific computing, machine learning, high performance computing, therectical computer science.
-- 🌱 I’m currently a undergraduate student study for the degrees of materials science and mathematics with computer science
+- 🌱 I’m currently a undergraduate student studying Mathematics, Computer science and Materials Science.
